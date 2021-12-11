@@ -1,0 +1,198 @@
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+D:\CN\lab03.erc:
+
+ERC Report Options:
+-------------------
+
+Single Node Nets:   On
+No Node Nets:       On
+Electrical Rules:        On
+Unconnected Pins:        On
+Unconnected Wires:       On
+Bus/Net Rules:           On
+Component Rules:         On
+Net Connectivity Rules:  On
+Hierarchy Rules:         On
+
+ERC Errors:
+-----------
+
+
+SINGLE NODE NETS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+NO NODE NETS:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+ELECTRICAL RULES:
+
+Warning 1 -- Net NET00000 has no input pins
+Warning 2 -- Net NET00000 has no output pins
+Warning 3 -- Net NET00001 has no input pins
+Warning 4 -- Net NET00001 has no output pins
+Warning 5 -- Net NET00002 has no input pins
+Warning 6 -- Net NET00002 has no output pins
+Warning 7 -- Net NET00003 has no input pins
+Warning 8 -- Net NET00003 has no output pins
+Warning 9 -- Net NET00004 has no input pins
+Warning 10 -- Net NET00004 has no output pins
+Warning 11 -- Net NET00008 has no input pins
+Warning 12 -- Net NET00008 has no output pins
+Warning 13 -- Net NET00006 has no input pins
+Warning 14 -- Net NET00006 has no output pins
+Warning 15 -- Net NET00007 has no input pins
+Warning 16 -- Net NET00007 has no output pins
+Warning 17 -- Net NET00009 has no input pins
+Warning 18 -- Net NET00009 has no output pins
+Warning 19 -- Net NET00013 has no input pins
+Warning 20 -- Net NET00013 has no output pins
+Warning 21 -- Net NET00011 has no input pins
+Warning 22 -- Net NET00011 has no output pins
+Warning 23 -- Net NET00012 has no input pins
+Warning 24 -- Net NET00012 has no output pins
+Warning 25 -- Net NET00014 has no input pins
+
+----------------------------------------------------------------------
+
+11-Dec-21  15:20                                            Page    1
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+Warning 26 -- Net NET00014 has no output pins
+
+26 warning(s) detected.
+0 error(s) detected.
+
+UNCONNECTED PINS:
+
+Warning 27 -- Unconnected pin LE-9 on sheet:Sheet1 at mils (7633.1,5790.0)
+Warning 28 -- Unconnected pin LE-1 on sheet:Sheet1 at mils (7633.1,6690.0)
+Warning 29 -- Unconnected pin LE-12 on sheet:Sheet1 at mils (7633.1,5390.0)
+Warning 30 -- Unconnected pin LE-2 on sheet:Sheet1 at mils (7633.1,6490.0)
+
+4 warning(s) detected.
+0 error(s) detected.
+
+UNCONNECTED WIRES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+BUS/NET RULES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+COMPONENT RULES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+NET CONNECTIVITY RULES:
+
+
+0 warning(s) detected.
+0 error(s) detected.
+
+HIERARCHY RULES:
+
+
+Hierarchy is simple.
+Hierarchy is resolved.
+
+0 warning(s) detected.
+0 error(s) detected.
+
+ERC Summary:
+------------
+
+Single Node:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+No Node:
+	Errors:         0
+
+----------------------------------------------------------------------
+
+11-Dec-21  15:20                                            Page    2
+
+P-CAD Electrical Rules Check Report
+
+======================================================================
+
+	Warnings:       0
+	Ignored Errors: 0
+Electrical:
+	Errors:         0
+	Warnings:       26
+	Ignored Errors: 0
+Unconnected Pin:
+	Errors:         0
+	Warnings:       4
+	Ignored Errors: 0
+Unconnected Wire:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Bus/Net:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Component:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Net Connectivity:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+Hierarchy:
+	Errors:         0
+	Warnings:       0
+	Ignored Errors: 0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------
+
+11-Dec-21  15:20                                            Page    3
+
