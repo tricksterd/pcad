@@ -22,3 +22,7 @@ Task 3 (Створення принципових схем у P-CAD)
 
 Task 4(Створення топології друкованої плати у P-CAD)
 #### ![Screenshot_2](https://user-images.githubusercontent.com/60212519/145709872-f4dc94a0-c1fc-4a4a-bc07-690a19dc0414.png)
+
+Task 5 (Імпорт проектів P-CAD у Altium Designer)
+#### ![image](https://user-images.githubusercontent.com/60212519/145712264-149c0539-8163-4145-a775-e2460c0bf5ac.png)
+
