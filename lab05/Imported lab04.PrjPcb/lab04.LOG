@@ -1,0 +1,46 @@
+PCAD Importer Log
+Project : lab04.PrjPcb
+
+Section : D:\CN\lab04\lab04.PCB
+    Section : Load Messages
+        Warning - 1 : Skipping Token defaultPinDes On Line 204
+        Warning - 1 : Skipping Token defaultPinDes On Line 205
+        Warning - 1 : Skipping Token defaultPinDes On Line 233
+        Warning - 1 : Skipping Token defaultPinDes On Line 236
+        Warning - 1 : Skipping Token defaultPinDes On Line 264
+        Warning - 1 : Skipping Token defaultPinDes On Line 265
+        Warning - 1 : Skipping Token defaultPinDes On Line 266
+        Warning - 1 : Skipping Token attachedSymbol On Line 324
+        Warning - 1 : Skipping Token attachedSymbol On Line 354
+        Warning - 1 : Skipping Token attachedSymbol On Line 387
+        Warning - 1 : Skipping Token attachedSymbol On Line 410
+        Warning - 1 : Skipping Token attachedSymbol On Line 431
+        Warning - 1 : Skipping Token attachedSymbol On Line 451
+        Warning - 1 : Skipping Token refPointSize On Line 629
+        Warning - 1 : Skipping Token infoPointSize On Line 630
+        Warning - 1 : Skipping Token gluePointSize On Line 631
+        Warning - 1 : Skipping Token pickPointSize On Line 632
+        Warning - 1 : Skipping Token testPointSize On Line 633
+        Warning - 1 : Skipping Token refPointSizePrint On Line 634
+        Warning - 1 : Skipping Token infoPointSizePrint On Line 635
+        Warning - 1 : Skipping Token gluePointSizePrint On Line 636
+        Warning - 1 : Skipping Token pickPointSizePrint On Line 637
+        Warning - 1 : Skipping Token testPointSizePrint On Line 638
+        Warning - 1 : Skipping Token solderFlowDirection On Line 639
+        Warning - 1 : Skipping Token globalCopperPourCutoutBackoffFlag On Line 640
+        Warning - 1 : Skipping Token useLegacyBackoffAlgorithm On Line 641
+        Warning - 1 : Skipping Token useLegacyCupourIslandGenerationAlgorithm On Line 642
+        Warning - 1 : Skipping Token drillSymSettings On Line 931
+        Warning - 1 : Skipping Token gerberSettings On Line 933
+        Warning - 1 : Skipping Token ncDrillSettings On Line 947
+        Warning - 1 : Skipping Token programState On Line 956
+        Warning - 1 : Skipping Token displayDrawOrder On Line 997
+        Warning - 1 : Skipping Token reportSettings On Line 1220
+        Warning - 1 : Skipping Token odbSettings On Line 1917
+    EndSection
+
+    Section : Import Messages
+        Warning - 0 : PCAD Pattern Graphics [LOGICELEMENT][Primary] associated with PCAD Component [LOGICELEMENT] has been renamed to PCB FootPrint [LOGICELEMENT_LOGICELEMENT(Primary)].
+        Warning - 0 : PCAD Pattern Graphics [KRONA][Primary] associated with PCAD Component [KRONA] has been renamed to PCB FootPrint [KRONA_KRONA(Primary)].
+    EndSection
+EndSection

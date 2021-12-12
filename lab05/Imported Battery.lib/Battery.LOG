@@ -1,0 +1,117 @@
+PCAD Importer Log
+Project : Battery.LibPkg
+
+Section : D:\CN\PCAD-Libs\PCAD-Libs\Battery.lib
+    Section : PCB Library - Battery.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 178
+            Warning - 1 : Skipping Token defaultPinDes On Line 179
+            Warning - 1 : Skipping Token defaultPinDes On Line 224
+            Warning - 1 : Skipping Token defaultPinDes On Line 225
+            Warning - 1 : Skipping Token defaultPinDes On Line 300
+            Warning - 1 : Skipping Token defaultPinDes On Line 301
+            Warning - 1 : Skipping Token defaultPinDes On Line 383
+            Warning - 1 : Skipping Token defaultPinDes On Line 384
+            Warning - 1 : Skipping Token defaultPinDes On Line 413
+            Warning - 1 : Skipping Token defaultPinDes On Line 414
+            Warning - 1 : Skipping Token defaultPinDes On Line 436
+            Warning - 1 : Skipping Token defaultPinDes On Line 437
+            Warning - 1 : Skipping Token defaultPinDes On Line 438
+            Warning - 1 : Skipping Token defaultPinDes On Line 460
+            Warning - 1 : Skipping Token defaultPinDes On Line 461
+            Warning - 1 : Skipping Token defaultPinDes On Line 462
+            Warning - 1 : Skipping Token defaultPinDes On Line 496
+            Warning - 1 : Skipping Token defaultPinDes On Line 497
+            Warning - 1 : Skipping Token defaultPinDes On Line 498
+            Warning - 1 : Skipping Token defaultPinDes On Line 533
+            Warning - 1 : Skipping Token defaultPinDes On Line 534
+            Warning - 1 : Skipping Token defaultPinDes On Line 569
+            Warning - 1 : Skipping Token defaultPinDes On Line 570
+            Warning - 1 : Skipping Token defaultPinDes On Line 605
+            Warning - 1 : Skipping Token defaultPinDes On Line 606
+            Warning - 1 : Skipping Token defaultPinDes On Line 607
+            Warning - 1 : Skipping Token defaultPinDes On Line 649
+            Warning - 1 : Skipping Token defaultPinDes On Line 652
+            Warning - 1 : Skipping Token GB On Line 672
+            Warning - 1 : Skipping Token attachedSymbol On Line 714
+            Warning - 1 : Skipping Token attachedSymbol On Line 735
+            Warning - 1 : Skipping Token attachedSymbol On Line 755
+            Warning - 1 : Skipping Token attachedSymbol On Line 776
+            Warning - 1 : Skipping Token attachedSymbol On Line 797
+            Warning - 1 : Skipping Token attachedSymbol On Line 819
+            Warning - 1 : Skipping Token attachedSymbol On Line 842
+            Warning - 1 : Skipping Token attachedSymbol On Line 865
+            Warning - 1 : Skipping Token attachedSymbol On Line 887
+            Warning - 1 : Skipping Token attachedSymbol On Line 908
+            Warning - 1 : Skipping Token attachedSymbol On Line 930
+            Warning - 1 : Skipping Token attachedSymbol On Line 954
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [BH1066(CR2032)][Primary] associated with PCAD Component [BH1066(CR2032)] has been renamed to PCB FootPrint [BH1066(CR2032)_BH1066(CR2032)(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CR2032_DIP][Primary] associated with PCAD Component [CR2032_DIP] has been renamed to PCB FootPrint [CR2032_DIP_CR2032_DIP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CR2450_DIP][Primary] associated with PCAD Component [CR2450_DIP] has been renamed to PCB FootPrint [CR2450_DIP_CR2450_DIP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KRONA][Primary] associated with PCAD Component [KRONA] has been renamed to PCB FootPrint [KRONA_KRONA(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - Battery.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token padStyleDef On Line 44
+            Warning - 1 : Skipping Token padStyleDef On Line 55
+            Warning - 1 : Skipping Token padStyleDef On Line 65
+            Warning - 1 : Skipping Token padStyleDef On Line 75
+            Warning - 1 : Skipping Token padStyleDef On Line 86
+            Warning - 1 : Skipping Token padStyleDef On Line 96
+            Warning - 1 : Skipping Token viaStyleDef On Line 106
+            Warning - 1 : Skipping Token multiLayer On Line 177
+            Warning - 1 : Skipping Token layerContents On Line 181
+            Warning - 1 : Skipping Token layerContents On Line 193
+            Warning - 1 : Skipping Token multiLayer On Line 223
+            Warning - 1 : Skipping Token layerContents On Line 227
+            Warning - 1 : Skipping Token layerContents On Line 246
+            Warning - 1 : Skipping Token multiLayer On Line 299
+            Warning - 1 : Skipping Token layerContents On Line 303
+            Warning - 1 : Skipping Token layerContents On Line 312
+            Warning - 1 : Skipping Token multiLayer On Line 382
+            Warning - 1 : Skipping Token layerContents On Line 386
+            Warning - 1 : Skipping Token layerContents On Line 396
+            Warning - 1 : Skipping Token multiLayer On Line 412
+            Warning - 1 : Skipping Token layerContents On Line 416
+            Warning - 1 : Skipping Token layerContents On Line 423
+            Warning - 1 : Skipping Token multiLayer On Line 435
+            Warning - 1 : Skipping Token layerContents On Line 440
+            Warning - 1 : Skipping Token layerContents On Line 447
+            Warning - 1 : Skipping Token multiLayer On Line 459
+            Warning - 1 : Skipping Token layerContents On Line 464
+            Warning - 1 : Skipping Token layerContents On Line 477
+            Warning - 1 : Skipping Token multiLayer On Line 495
+            Warning - 1 : Skipping Token layerContents On Line 500
+            Warning - 1 : Skipping Token layerContents On Line 513
+            Warning - 1 : Skipping Token multiLayer On Line 532
+            Warning - 1 : Skipping Token layerContents On Line 536
+            Warning - 1 : Skipping Token layerContents On Line 549
+            Warning - 1 : Skipping Token multiLayer On Line 568
+            Warning - 1 : Skipping Token layerContents On Line 572
+            Warning - 1 : Skipping Token layerContents On Line 585
+            Warning - 1 : Skipping Token multiLayer On Line 604
+            Warning - 1 : Skipping Token layerContents On Line 609
+            Warning - 1 : Skipping Token layerContents On Line 624
+            Warning - 1 : Skipping Token multiLayer On Line 648
+            Warning - 1 : Skipping Token layerContents On Line 654
+            Warning - 1 : Skipping Token layerContents On Line 663
+            Warning - 1 : Skipping Token defaultPinDes On Line 680
+            Warning - 1 : Skipping Token defaultPinDes On Line 688
+        EndSection
+
+        Section : Generating SCH Library - Battery.SchLib
+            Warning - 0 : PCAD Pattern Graphics [BH1066(CR2032)][Primary] associated with PCAD Component [BH1066(CR2032)] has been renamed to PCB FootPrint [BH1066(CR2032)_BH1066(CR2032)(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CR2032_DIP][Primary] associated with PCAD Component [CR2032_DIP] has been renamed to PCB FootPrint [CR2032_DIP_CR2032_DIP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [CR2450_DIP][Primary] associated with PCAD Component [CR2450_DIP] has been renamed to PCB FootPrint [CR2450_DIP_CR2450_DIP(Primary)].
+            Warning - 0 : PCAD Pattern Graphics [KRONA][Primary] associated with PCAD Component [KRONA] has been renamed to PCB FootPrint [KRONA_KRONA(Primary)].
+        EndSection
+    EndSection
+EndSection

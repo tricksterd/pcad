@@ -1,0 +1,67 @@
+PCAD Importer Log
+Project : lab03.LibPkg
+
+Section : D:\CN\pcad-main\Lib\lab03.lib
+    Section : PCB Library - lab03.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token defaultPinDes On Line 254
+            Warning - 1 : Skipping Token defaultPinDes On Line 255
+            Warning - 1 : Skipping Token defaultPinDes On Line 256
+            Warning - 1 : Skipping Token DIODE On Line 334
+            Warning - 1 : Skipping Token LOGICELEMENT On Line 363
+            Warning - 1 : Skipping Token P-N-P On Line 470
+            Warning - 1 : Skipping Token RES1-51K On Line 509
+            Warning - 1 : Skipping Token attachedSymbol On Line 550
+            Warning - 1 : Skipping Token attachedSymbol On Line 580
+            Warning - 1 : Skipping Token attachedSymbol On Line 611
+            Warning - 1 : Skipping Token attachedSymbol On Line 632
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [LOGICELEMENT][Primary] associated with PCAD Component [LOGICELEMENT] has been renamed to PCB FootPrint [LOGICELEMENT_LOGICELEMENT(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - lab03.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 13
+            Warning - 1 : Skipping Token padStyleDef On Line 23
+            Warning - 1 : Skipping Token padStyleDef On Line 33
+            Warning - 1 : Skipping Token viaStyleDef On Line 43
+            Warning - 1 : Skipping Token multiLayer On Line 199
+            Warning - 1 : Skipping Token layerContents On Line 203
+            Warning - 1 : Skipping Token layerContents On Line 215
+            Warning - 1 : Skipping Token multiLayer On Line 226
+            Warning - 1 : Skipping Token layerContents On Line 230
+            Warning - 1 : Skipping Token layerContents On Line 242
+            Warning - 1 : Skipping Token multiLayer On Line 253
+            Warning - 1 : Skipping Token layerContents On Line 258
+            Warning - 1 : Skipping Token layerContents On Line 267
+            Warning - 1 : Skipping Token multiLayer On Line 282
+            Warning - 1 : Skipping Token layerContents On Line 296
+            Warning - 1 : Skipping Token multiLayer On Line 316
+            Warning - 1 : Skipping Token layerContents On Line 320
+            Warning - 1 : Skipping Token defaultPinDes On Line 342
+            Warning - 1 : Skipping Token defaultPinDes On Line 350
+            Warning - 1 : Skipping Token defaultPinDes On Line 370
+            Warning - 1 : Skipping Token defaultPinDes On Line 377
+            Warning - 1 : Skipping Token defaultPinDes On Line 384
+            Warning - 1 : Skipping Token defaultPinDes On Line 391
+            Warning - 1 : Skipping Token defaultPinDes On Line 398
+            Warning - 1 : Skipping Token defaultPinDes On Line 405
+            Warning - 1 : Skipping Token defaultPinDes On Line 412
+            Warning - 1 : Skipping Token defaultPinDes On Line 419
+            Warning - 1 : Skipping Token defaultPinDes On Line 426
+            Warning - 1 : Skipping Token defaultPinDes On Line 433
+            Warning - 1 : Skipping Token defaultPinDes On Line 441
+            Warning - 1 : Skipping Token defaultPinDes On Line 449
+            Warning - 1 : Skipping Token defaultPinDes On Line 478
+            Warning - 1 : Skipping Token defaultPinDes On Line 486
+            Warning - 1 : Skipping Token defaultPinDes On Line 494
+        EndSection
+
+        Section : Generating SCH Library - lab03.SchLib
+            Warning - 0 : PCAD Pattern Graphics [LOGICELEMENT][Primary] associated with PCAD Component [LOGICELEMENT] has been renamed to PCB FootPrint [LOGICELEMENT_LOGICELEMENT(Primary)].
+        EndSection
+    EndSection
+EndSection
