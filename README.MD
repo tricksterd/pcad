@@ -46,5 +46,13 @@ Task 7 (Ствоерння ТПМ у Altium Designer)
 
 Task 8 (Створення 3D-моделей односекційних компонентів)
 -
+#### 1. <br> ![image](https://user-images.githubusercontent.com/60212519/145800779-f5b36dd7-f1fe-4496-b85e-12189e593cfb.png)
+#### 2. <br> ![image](https://user-images.githubusercontent.com/60212519/145801574-53f83974-80df-496d-a97a-90967e271a92.png)
+
+Task 9 (Створення 3D-моделей багатосекційних компонент)
+-
+#### 1. <br>![image](https://user-images.githubusercontent.com/60212519/145802359-00d697dd-5d71-4eb6-896f-137c3add0df5.png)
+#### 2. <br> ![image](https://user-images.githubusercontent.com/60212519/145803183-fe732852-d823-40e1-b8dd-357da66b4b6a.png)
+
 
 
